@@ -28,13 +28,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augluc&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="augluc github stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=augluc&layout=compact&langs_count=7&theme=vue" alt="augluc top languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augluc&theme=vue-dark&hide_border=true" alt="augluc streak stats" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faugluc&count_bg=%2342B883&title_bg=%23555555&icon=github.svg&icon_color=%23WHITE&title=views&edge_flat=false" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=augluc&label=Profile%20Views&color=42b883&style=for-the-badge" alt="Profile Views" />
 </p>
